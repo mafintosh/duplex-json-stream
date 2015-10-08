@@ -6,6 +6,8 @@ Turn a transport stream into an object stream that parses from / serializes to j
 npm install json-object-stream
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/json-object-stream.svg?style=flat)](http://travis-ci.org/mafintosh/json-object-stream)
+
 ## Usage
 
 ``` js
