@@ -1,6 +1,6 @@
 {
   "name": "duplex-json-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn a transport stream into an object stream that parses from / serializes to json",
   "main": "index.js",
   "scripts": {
