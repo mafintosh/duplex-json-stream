@@ -1,5 +1,5 @@
 {
-  "name": "json-object-stream",
+  "name": "duplex-json-stream",
   "version": "1.0.0",
   "description": "Turn a transport stream into an object stream that parses from / serializes to json",
   "main": "index.js",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/json-object-stream.git"
+    "url": "https://github.com/mafintosh/duplex-json-stream.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/json-object-stream/issues"
+    "url": "https://github.com/mafintosh/duplex-json-stream/issues"
   },
-  "homepage": "https://github.com/mafintosh/json-object-stream"
+  "homepage": "https://github.com/mafintosh/duplex-json-stream"
 }
